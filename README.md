@@ -1,0 +1,2 @@
+# SpendTrace
+Expenses tracker
